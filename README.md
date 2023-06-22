@@ -12,3 +12,7 @@ It is a modern button design, very useful for drop-down menus of mobile-first or
 
 The design consists of two parts, a basic bootstrap navbar implemented in the index.html sheet and some styles to edit the button
 basic bootstrap button and turn it into a modern hamburger style button in the styles.css sheet.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Result](https://github.com/angelfuerza/NavbarHamburguerAnimation/assets/129788721/6a46c52a-b89e-49c0-9703-831459e7a048)
